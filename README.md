@@ -168,7 +168,7 @@ plt.show()
 ![Top 10 Cities Sales 2014](images/Top_10_Cities_Sales.png)* Bar Chart showing the Top 10 Cities (with their Region) by Total Sales in 2014*
 
 ### Insights:
-* The chart reveals a significant difference in sales performance between top cities. Eastern cities, particularly New York City, dominate the top 10 list, suggesting a stronger market presence or demand in the East Region. The South region is represented by only one city, indicating a potnetially untapped market opportunity.
+* The chart reveals a significant difference in sales performance between top cities. Eastern cities, particularly New York City, dominate the top 10 list, suggesting a stronger market presence or demand in the East Region. The South region is represented by only one city, indicating a potentially untapped market opportunity.
 
 * The West region is represented very strongly with three cities within the top 5. This indicates a strong sales performance in the major West region cities.
 
@@ -504,14 +504,15 @@ plt.show()
 
 * Identify Opportunities for Niche Products: While 3D printers and specialty items may have lower overall profitability, they could represent niche markets with potential for growth. The company could explore targeted marketing strategies or product enhancements to improve their performance.
 
-* Optimize Product Mix and Pricing: Analyzing the factors contributing to differences in profit margins can help the company optimize product mix, pricing strategies, and cost structures to improve overall profitability. This may involve discontinuing low-margin products, adjusting pricing, or negotiating better terms with suppliers
+* Optimize Product Mix and Pricing: Analyzing the factors contributing to differences in profit margins can help the company optimize its product mix, pricing strategies, and cost structures to improve overall profitability. This may involve discontinuing low-margin products, adjusting pricing, or negotiating better terms with suppliers
 
 ## Conclusion
 
-This analysis of the Superstore Dataset provided valuable insights into the company's sales performance, customer base, and prodcuts.
+This analysis of the Superstore Dataset provided valuable insights into the company's sales performance, customer base, and products.
 
-* Financial Performace: We observed a positive trend in sales and profit over the period, with a notable increase in sales during 2013. However, the profit margin as a percentage of sales fluctuated, suggesting the need for continued focus on pricing strategy and cost optimization.
+* Financial Performance: We observed a positive trend in sales and profit over the period, with a notable increase in sales during 2013. However, the profit margin as a percentage of sales fluctuated, suggesting the need for continued focus on pricing strategy and cost optimization.
 
 * Customer Insights: The analysis identified key customer segments, revealing a strong market presence in the West and East regions, with opportunities for expansion in the Central and South. Additionally, the distribution of orders by customer highlighted the importance of both high-value repeat customers and strategies to retain infrequent buyers.
 
-* Product Insights: The product analysis showed that the company should continue to invest in copiers and binding machines, building upon the company's expertise and market leadership. The company should consider expanding into complementary product categories or exploring new features within existing ones to capitalize on customer demand. They need regular assessments of product profitability and performance to identify opportunities for discontinuing low-performing products or introducing new ones.
+* Product Insights: The product analysis showed that the company should continue to invest in copiers and binding machines, building upon its expertise and market leadership. The company should consider expanding into complementary product categories or exploring new features within existing ones to capitalize on customer demand. Regular assessments of product profitability and performance are needed to identify opportunities for discontinuing low-performing products or introducing new ones.
+
