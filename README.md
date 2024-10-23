@@ -10,7 +10,7 @@ In addition to customer insights, I explored product performance to determine wh
 The insights garnered from this analysis aim to inform strategic decision-making and enhance our understanding of market trends and customer behavior.
 
 ## The Questions
-Below are the questions I want to answer in my project:
+Below are the questions I wanted to answer in my project:
 
 1. What are the trends in Sales, Profit, and Orders over the period from 2011-2014?
 2. Which locations and regions generate the highest customer purchases?
@@ -24,13 +24,14 @@ Below are the questions I want to answer in my project:
 ## Tools Used for the Analysis
 I used the following tools for this analysis:
 
-* <u>Python</u>: The main tool fo rthe analysis, used to analyze the data, and find the answer to the questions posed. The following libraries were used in Python:
-    * Pandas Library: Used to analyze data.
-    * Matplotlib Library: To visualize the data.
-    * Seabormn Library: Create more advanced visualizations.
-* <u>Jupyter Notebooks</u>: Tool used to run Python scripts, and easily include notes and analysis.
-* <u>Visual Studio Code</u>: Program for executing Python scrpits.
-* <u>Git & GitHub</u>: Version control and sharing Python code and analysis.
+* <u>**Python**</u>: The main tool for the analysis, used to analyze the data, and find the answer to the questions posed. The following libraries were used in Python:
+    * **Pandas Library**: Used to analyze data.
+    * **Matplotlib Library**: To visualize the data.
+    * **Seaborn Library**: Create more advanced visualizations.
+    * **AdjustText**: Used to Move Text in visuals to avoid overlap and improve readability.
+* <u>**Jupyter Notebooks**</u>: Tool used to run Python scripts, and easily include notes and analysis.
+* <u>**Visual Studio Code**</u>: Program for executing Python scrpits.
+* <u>**Git & GitHub**</u>: Version control and sharing Python code and analysis.
 
 ## Install Libraries, Load Dataset, and Clean Data
 
